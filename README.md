@@ -16,8 +16,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nicoleacreis.nicoleacreis&"  />
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 ```javascript
 const nicole = {
   pronouns: "she" | "her",
@@ -28,7 +27,7 @@ const nicole = {
 }
 ```
 
-### Some charts: 
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Some charts: 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nicoleacreis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicoleacreis&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
